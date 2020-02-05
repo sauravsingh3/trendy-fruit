@@ -15,7 +15,10 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
 
+body {
+  margin: 0;
 }
 
 .watermelon {
@@ -23,7 +26,7 @@ html {
 }
 
 .watermelon h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit {
@@ -31,7 +34,7 @@ html {
 }
 
 .starfruit h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .persimmon {
@@ -39,9 +42,9 @@ html {
 }
 
 .persimmon h2 {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
